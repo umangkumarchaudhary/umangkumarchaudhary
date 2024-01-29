@@ -1,10 +1,11 @@
+
+
 <div align="center" style="background-color: #f0f0f0;">
+  <h1>
+<img src="<div align="center" style="background-color: #f0f0f0;">
   <img src="https://raw.githubusercontent.com/umangkumarchaudhary/umangkumarchaudhary/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
-
-<div align="center">
-  <h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=500&lines=Hey+I'm+Umang+Kumar;A+passionate+web+developer;and+a+software+engineer;" alt="Typing SVG"/>
+nd+a+software+engineer;" alt="Typing SVG"/>
 
   </h1>
 </div>
