@@ -1,11 +1,6 @@
-
-
 <div align="center">
   <h1>
-<img src="<div align="center">
-  <img src="https://raw.githubusercontent.com/umangkumarchaudhary/umangkumarchaudhary/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
-nd+a+software+engineer;" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=500&lines=Hey+I'm+Umang+Kumar;A+passionate+web+developer;and+a+software+engineer;" alt="Typing SVG"/>
 
   </h1>
 </div>
@@ -58,3 +53,5 @@ nd+a+software+engineer;" alt="Typing SVG"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <!-- Add more badges similarly -->
 </div>
+
+ChatGPT
