@@ -1,8 +1,8 @@
 
 
-<div align="center" style="background-color: #f0f0f0;">
+<div align="center">
   <h1>
-<img src="<div align="center" style="background-color: #f0f0f0;">
+<img src="<div align="center">
   <img src="https://raw.githubusercontent.com/umangkumarchaudhary/umangkumarchaudhary/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 nd+a+software+engineer;" alt="Typing SVG"/>
