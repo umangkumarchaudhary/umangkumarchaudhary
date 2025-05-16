@@ -1,100 +1,200 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=36&duration=2500&pause=500&color=00FFD0&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Umang+Kumar!;Full+Stack+Developer+%7C+AI+Enthusiast;Building+Futuristic+Web+Experiences;Problem+Solver+%E2%9A%A1;Open+to+Opportunities" alt="Typing SVG"/>
+  <!-- Animated Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=2500&pause=500&color=00FFD0&center=true&vCenter=true&width=800&lines=UMANG+KUMAR;FULL+STACK+DEVELOPER+%7C+AI+ENGINEER;BUILDING+THE+FUTURE+WITH+CODE" alt="Umang Kumar - Developer Introduction"/>
+  <!-- Profile Views Badge -->
+  <img src="https://komarev.com/ghpvc/?username=umangkumarchaudhary&label=PROFILE+VIEWS&color=00FFD0&style=for-the-badge" alt="Profile Views"/>
 </div>
-
+<!-- Futuristic Banner -->
+<p align="center">
+  <img width="100%" src="https://github.com/umangkumarchaudhary/umangkumarchaudhary/blob/main/assets/banner.gif" alt="Futuristic Banner"/>
+</p>
+<!-- Quick Stats Cards -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=umangkumarchaudhary&label=Profile%20views&color=00FFD0&style=flat" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=umangkumarchaudhary&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FFD0&text_color=FFFFFF&icon_color=00FFD0&border_color=0D1117&count_private=true" height="150" alt="Stats Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umangkumarchaudhary&theme=dark&background=0D1117&ring=00FFD0&fire=00FFD0&currStreakLabel=00FFD0&border=0D1117" height="150" alt="Streak Stats"/>
 </div>
-
-<br/>
-
+<!-- About Me Section -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25"/> ABOUT ME
+javascriptconst umang = {
+  location: "India",
+  role: "Full Stack Developer & AI Engineer",
+  focus: ["Web Applications", "AI Integration", "Performance Optimization"],
+  currentProject: "AI-driven Vehicle Management Systems",
+  achievements: {
+    codingStreak: "450+ days on LeetCode",
+    publications: "Research on Digital Campus Platforms",
+    specialty: "Building scalable full-stack solutions"
+  },
+  quote: "Always learning, always shipping."
+};
+<!-- Experience Section -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25"/> EXPERIENCE
+<!-- Experience Timeline -->
 <div align="center">
-  <img src="https://github.com/umangkumarchaudhary/umangkumarchaudhary/assets/umangkumarchaudhary/premium-banner.png" alt="Umang Kumar Banner" width="80%" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/2023--Present-00FFD0?style=for-the-badge" alt="2023-Present"/>
+      </td>
+      <td>
+        <b>Full Stack Developer</b> — Building AI-driven solutions for automotive industry
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/2022--2023-00FFD0?style=for-the-badge" alt="2022-2023"/>
+      </td>
+      <td>
+        <b>Web Application Developer</b> — Developed customer-facing applications and internal tools
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/2021--2022-00FFD0?style=for-the-badge" alt="2021-2022"/>
+      </td>
+      <td>
+        <b>Frontend Developer</b> — UI/UX optimization and component development
+      </td>
+    </tr>
+  </table>
 </div>
-
----
-
-## 🚀 About Me
-
-
-- 🏎️ Currently building AI-driven solutions for automotive and finance industries.
-- 🛠️ Passionate about solving real-world problems with code and creativity.
-- 🔥 Maintained a 450+ day coding streak on [LeetCode](https://leetcode.com/umangkumarchaudhary/).
-- 🏆 Published research on digital campus platforms.
-- 🌱 Always learning, always shipping.
-
----
-
-## 🛠️ Tech Stack
-
+<!-- Tech Stack Section -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25"/> TECH STACK
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,react,flutter,mongodb,python,js,ts,html,css,git,aws,azure,figma,githubactions" alt="Tech Stack" />
+FrontendBackendDatabaseDevOpsOthersShow ImageShow ImageShow ImageShow ImageShow ImageShow ImageShow ImageShow ImageShow ImageShow ImageShow ImageShow ImageShow ImageShow ImageShow ImageShow ImageShow ImageShow ImageShow ImageShow Image
 </div>
-
----
-
-## 🌟 Featured Projects
-
-<details>
-  <summary><b>🚗 Vehicle Tracking & Service Management System</b></summary>
-  <ul>
-    <li>Full-stack platform for real-time vehicle service tracking in workshops.</li>
-    <li>Role-based access, live dashboards, customer QR tracking, analytics, and more.</li>
-    <li><b>Stack:</b> Flutter, React.js, Node.js, Express, MongoDB</li>
-    <li><a href="#">Demo Video</a> | <a href="#">Live</a> | <a href="#">GitHub</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>🚙 Test Drive Booking System</b></summary>
-  <ul>
-    <li>Modern web platform for demo car bookings, analytics, and notifications.</li>
-    <li>Role-based access, real-time dashboard, and automated reporting.</li>
-    <li><b>Stack:</b> React.js, Node.js, Express, MongoDB</li>
-    <li><a href="#">Demo Video</a> | <a href="#">Live</a> | <a href="#">GitHub</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>🎓 Campus Hub Management System</b></summary>
-  <ul>
-    <li>Social platform for university events, reviews, blogs, and student engagement.</li>
-    <li>Admin moderation, Firebase media, and published research paper.</li>
-    <li><b>Stack:</b> React.js, Node.js, Express, MongoDB, Firebase</li>
-    <li><a href="#">Demo Video</a> | <a href="#">Live</a> | <a href="#">GitHub</a> | <a href="#">Research Paper</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>🏆 Lead Scoring Management System</b></summary>
-  <ul>
-    <li>Automated customer profiling and lead scoring integrated with Salesforce.</li>
-    <li>Sales dashboard, AI-driven scoring, and actionable insights.</li>
-    <li><b>Stack:</b> React.js, Node.js, Express, MongoDB, Salesforce API</li>
-    <li><a href="#">Demo Video</a> | <a href="#">Live</a> | <a href="#">GitHub</a></li>
-  </ul>
-</details>
-
----
-
-## 🏅 Credentials & Achievements
-
-**Certificates:**
-- <img src="/assets/images/deeplearning.png" width="20"/> <b>Natural Language Specialization</b> - DeepLearning.ai (April 2023) [[Verify](https://coursera.org/verify/nls-deeplearning)]
-- <img src="/assets/images/stanford.png" width="20"/> <b>Unsupervised Learning & Reinforcement Learning</b> - Stanford Online (Dec 2023) [[Verify](https://stanfordonline.edu/verify/ulrl)]
-- <img src="/assets/images/infosys.png" width="20"/> <b>Database Management System</b> - Infosys (July 2023) [[Verify](https://infosys.com/verify/dbms)]
-- <img src="/assets/images/gfg.png" width="20"/> <b>Data Structures and Algorithms</b> - GeeksforGeeks (June 2022) [[Verify](https://practice.geeksforgeeks.org/courses/verify/dsa)]
-
-**Achievements:**
-- 📄 Published research paper on Campus Hub Management System [[Verify](https://your-research-paper-link.com)]
-- 🔥 450+ day coding streak on [LeetCode](https://leetcode.com/umangkumarchaudhary/)
-
----
-
-## 🤝 Let's Connect!
-
+<!-- Projects Showcase -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25"/> FEATURED PROJECTS
 <div align="center">
-  <a href="mailto:your@email.com">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🚗 Vehicle Tracking & Service Management System</h3>
+        <p align="center">
+          <img src="https://via.placeholder.com/400x200/0D1117/00FFD0?text=Vehicle+Tracking+System" alt="Vehicle Tracking System"/>
+          <br />
+          <br />
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/DEMO-00FFD0?style=for-the-badge&logo=youtube&logoColor=black" alt="Demo"/>
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-00FFD0?style=for-the-badge&logo=github&logoColor=black" alt="Code"/>
+          </a>
+        </p>
+        <p>
+          Full-stack platform for real-time vehicle service tracking in workshops with role-based access, live dashboards, customer QR tracking, and analytics.
+          <br /><br />
+          <b>Stack:</b> Flutter, React.js, Node.js, Express, MongoDB
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🏆 Lead Scoring Management System</h3>
+        <p align="center">
+          <img src="https://via.placeholder.com/400x200/0D1117/00FFD0?text=Lead+Scoring+System" alt="Lead Scoring System"/>
+          <br />
+          <br />
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/DEMO-00FFD0?style=for-the-badge&logo=youtube&logoColor=black" alt="Demo"/>
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-00FFD0?style=for-the-badge&logo=github&logoColor=black" alt="Code"/>
+          </a>
+        </p>
+        <p>
+          Automated customer profiling and lead scoring system integrated with Salesforce, featuring sales dashboards, AI-driven scoring, and actionable insights.
+          <br /><br />
+          <b>Stack:</b> React.js, Node.js, Express, MongoDB, Salesforce API
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🚙 Test Drive Booking System</h3>
+        <p align="center">
+          <img src="https://via.placeholder.com/400x200/0D1117/00FFD0?text=Test+Drive+Booking+System" alt="Test Drive Booking System"/>
+          <br />
+          <br />
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/DEMO-00FFD0?style=for-the-badge&logo=youtube&logoColor=black" alt="Demo"/>
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-00FFD0?style=for-the-badge&logo=github&logoColor=black" alt="Code"/>
+          </a>
+        </p>
+        <p>
+          Modern web platform for demo car bookings with real-time analytics, notifications, role-based access, and automated reporting.
+          <br /><br />
+          <b>Stack:</b> React.js, Node.js, Express, MongoDB
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🎓 Campus Hub Management System</h3>
+        <p align="center">
+          <img src="https://via.placeholder.com/400x200/0D1117/00FFD0?text=Campus+Hub+System" alt="Campus Hub System"/>
+          <br />
+          <br />
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/DEMO-00FFD0?style=for-the-badge&logo=youtube&logoColor=black" alt="Demo"/>
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-00FFD0?style=for-the-badge&logo=github&logoColor=black" alt="Code"/>
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/RESEARCH-00FFD0?style=for-the-badge&logo=researchgate&logoColor=black" alt="Research"/>
+          </a>
+        </p>
+        <p>
+          Social platform for university events, reviews, blogs, and student engagement with admin moderation and Firebase media integration.
+          <br /><br />
+          <b>Stack:</b> React.js, Node.js, Express, MongoDB, Firebase
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+<!-- Coding Stats -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25"/> CODING STATS
+<div align="center">
+  <div>
+    <img src="https://leetcard.jacoblin.cool/umangkumarchaudhary?theme=dark&font=JetBrains%20Mono&ext=activity" alt="LeetCode Stats" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umangkumarchaudhary&layout=compact&theme=dark&bg_color=0D1117&title_color=00FFD0&text_color=FFFFFF&icon_color=00FFD0&border_color=0D1117" alt="Top Languages" width="400"/>
+  </div>
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=umangkumarchaudhary&theme=darkhub&column=7&margin-w=15&margin-h=15&no-frame=true&title=Commits,Repositories,Stars,Followers,Issues,PR" alt="GitHub Trophies" width="100%"/>
+</div>
+<!-- Achievements & Certifications -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25"/> ACHIEVEMENTS & CERTIFICATIONS
+<div align="center">
+  <div>
+    <a href="https://coursera.org/verify/nls-deeplearning" target="_blank">
+      <img src="https://img.shields.io/badge/Natural_Language_Specialization-DeepLearning.ai-00FFD0?style=for-the-badge&logo=coursera&logoColor=black" alt="DeepLearning.ai Certification"/>
+    </a>
+    <a href="https://stanfordonline.edu/verify/ulrl" target="_blank">
+      <img src="https://img.shields.io/badge/Unsupervised_&_Reinforcement_Learning-Stanford-00FFD0?style=for-the-badge&logo=stanford&logoColor=black" alt="Stanford Certification"/>
+    </a>
+  </div>
+  <div>
+    <a href="https://infosys.com/verify/dbms" target="_blank">
+      <img src="https://img.shields.io/badge/Database_Management_System-Infosys-00FFD0?style=for-the-badge&logo=infosys&logoColor=black" alt="Infosys Certification"/>
+    </a>
+    <a href="https://practice.geeksforgeeks.org/courses/verify/dsa" target="_blank">
+      <img src="https://img.shields.io/badge/Data_Structures_and_Algorithms-GeeksforGeeks-00FFD0?style=for-the-badge&logo=geeksforgeeks&logoColor=black" alt="GeeksforGeeks Certification"/>
+    </a>
+  </div>
+  <br />
+  <div>
+    <a href="#" target="_blank">
+      <img src="https://img.shields.io/badge/🔥_450+_Day_LeetCode_Streak-00FFD0?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Streak"/>
+    </a>
+    <a href="https://your-research-paper-link.com" target="_blank">
+      <img src="https://img.shields.io/badge/📄_Published_Research_Paper-00FFD0?style=for-the-badge&logo=researchgate&logoColor=black" alt="Research Paper"/>
+    </a>
+  </div>
+</div>
+<!-- Connect Section -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25"/> LET'S CONNECT
+<div align="center">
+  <a href="mailto:your@email.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-00FFD0?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/umang-kumar-0546b71b5/" target="_blank">
@@ -107,28 +207,39 @@
     <img src="https://img.shields.io/badge/Instagram-00FFD0?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/>
   </a>
 </div>
-
----
-
+<!-- Fun Facts -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25"/> FUN FACTS
+<div align="center">
+  <table>
+    <tr>
+      <td>🏎️ Formula 1 enthusiast</td>
+      <td>☕ Coffee-fueled night coder</td>
+      <td>🧠 AI & ML hobbyist</td>
+    </tr>
+    <tr>
+      <td>🏆 Competitive programmer</td>
+      <td>🌐 Open-source contributor</td>
+      <td>💡 Tech solution architect</td>
+    </tr>
+  </table>
+</div>
+<!-- GitHub Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umangkumarchaudhary&theme=react-dark&bg_color=0D1117&color=00FFD0&line=00FFD0&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+</div>
+<!-- Snake Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/umangkumarchaudhary/umangkumarchaudhary/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
-
----
-
-## ⚡ Fun Facts
-
-- 🏁 F1 fan, coffee-fueled night coder.
-- 💡 Always exploring the intersection of tech, AI, and real-world impact.
-- 🌐 Building the future, one solution at a time.
-
----
-
-<!--
-**Tips:**
-- Replace image/banner/demo links with your actual URLs.
-- Keep your README updated as you complete new projects or earn new credentials.
-- Use SVGs and badges to keep the vibe futuristic and premium.
-- Use <details> for expandable sections, keeping the profile clean and interactive.
+<!-- Footer -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=00FFD0&center=true&vCenter=true&width=800&lines=BUILDING+THE+FUTURE%2C+ONE+LINE+OF+CODE+AT+A+TIME" alt="Building the future, one line of code at a time"/>
+</div>
+<!-- 
+Notes for me:
+1. Replace the placeholder images with actual project screenshots
+2. Update all the links with actual URLs
+3. Consider adding more projects in the future
+4. Keep the LeetCode streak and stats updated
+5. Add more testimonials as they come in
 -->
-
