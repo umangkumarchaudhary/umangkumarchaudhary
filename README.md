@@ -1,251 +1,353 @@
-<div align="center">
-  <!-- Animated Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=2500&pause=500&color=00FFD0&center=true&vCenter=true&width=800&lines=UMANG+KUMAR;FULL+STACK+DEVELOPER+%7C+AI+ENGINEER;BUILDING+THE+FUTURE+WITH+CODE" alt="Umang Kumar - Developer Introduction"/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=umangkumarchaudhary&label=PROFILE+VIEWS&color=00FFD0&style=for-the-badge" alt="Profile Views"/>
-</div>
-
-<!-- Futuristic Banner -->
-<p align="center">
-  <img width="100%" src="https://github.com/umangkumarchaudhary/umangkumarchaudhary/blob/main/assets/banner.gif" alt="Futuristic Banner"/>
-</p>
-
-<!-- Quick Stats Cards -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umangkumarchaudhary&show_icons=true&theme=dark&bg_color=0D1117&title_color=00FFD0&text_color=FFFFFF&icon_color=00FFD0&border_color=0D1117&count_private=true" height="150" alt="Stats Graph"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umangkumarchaudhary&theme=dark&background=0D1117&ring=00FFD0&fire=00FFD0&currStreakLabel=00FFD0&border=0D1117" height="150" alt="Streak Stats"/>
-</div>
-
----
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25"/> 
-## ABOUT ME
-
-const umang = {
-location: "India",
-role: "Full Stack Developer & AI Engineer",
-focus: ["Web Applications", "AI Integration", "Performance Optimization"],
-currentProject: "AI-driven Vehicle Management Systems",
-achievements: {
-codingStreak: "450+ days on LeetCode",
-publications: "Research on Digital Campus Platforms",
-specialty: "Building scalable full-stack solutions"
-},
-quote: "Always learning, always shipping."
-};
-
-text
-
----
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25"/> 
-## EXPERIENCE
+<!-- 
+  ╔═══════════════════════════════════════════════════════════════════════════╗
+  ║                                                                           ║
+  ║   ██╗   ██╗███╗   ███╗ █████╗ ███╗   ██╗ ██████╗                          ║
+  ║   ██║   ██║████╗ ████║██╔══██╗████╗  ██║██╔════╝                          ║
+  ║   ██║   ██║██╔████╔██║███████║██╔██╗ ██║██║  ███╗                         ║
+  ║   ██║   ██║██║╚██╔╝██║██╔══██║██║╚██╗██║██║   ██║                         ║
+  ║   ╚██████╔╝██║ ╚═╝ ██║██║  ██║██║ ╚████║╚██████╔╝                         ║
+  ║    ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝                          ║
+  ║                                                                           ║
+  ╚═══════════════════════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://img.shields.io/badge/2023--Present-00FFD0?style=for-the-badge" alt="2023-Present"/></td>
-      <td><b>Full Stack Developer</b> - AI-driven solutions for automotive industry</td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/2022--2023-00FFD0?style=for-the-badge" alt="2022-2023"/></td>
-      <td><b>Web Application Developer</b> - Customer-facing apps and internal tools</td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/2021--2022-00FFD0?style=for-the-badge" alt="2021-2022"/></td>
-      <td><b>Frontend Developer</b> - UI/UX optimization and component development</td>
-    </tr>
-  </table>
+
+<!-- Animated Glitch Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=%3C%2F%3E+UMANG+KUMAR" alt="Umang Kumar"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=FF00E5&center=true&vCenter=true&width=600&lines=Digital+Experience+Manager;Full+Stack+Developer;AI+%26+ML+Engineer;Building+the+Future+with+Code" alt="Roles"/>
+
+<br/>
+
+<!-- Cyberpunk Badges Row -->
+[![Profile Views](https://komarev.com/ghpvc/?username=umangkumarchaudhary&label=SYSTEM_VIEWS&color=00F0FF&style=for-the-badge&labelColor=0D1117)](https://github.com/umangkumarchaudhary)
+[![GitHub followers](https://img.shields.io/github/followers/umangkumarchaudhary?label=FOLLOWERS&logo=github&color=FF00E5&style=for-the-badge&labelColor=0D1117)](https://github.com/umangkumarchaudhary)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-ONLINE-00FF88?style=for-the-badge&labelColor=0D1117)](https://umangkumar.netlify.app)
+
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25"/>
-## TECH STACK
+<!-- Matrix-style divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+<!-- Terminal-style About Section -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,react,flutter,mongodb,python,js,ts,html,css,git,aws,azure,figma,githubactions" alt="Tech Stack" />
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  root@umang:~$ cat /etc/profile                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║   > LOCATION:     India 🇮🇳                                                   ║
+║   > ROLE:         Digital Experience Manager @ Raam Group                    ║
+║   > SPECIALTY:    Full Stack Development • AI Integration • System Design   ║
+║   > STATUS:       Building AI-powered enterprise solutions                   ║
+║   > UPTIME:       450+ days LeetCode streak 🔥                               ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<!-- Bio Quote -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=2000&color=00FF88&center=true&vCenter=true&width=800&lines=%22I+don't+just+write+code.+I+architect+digital+experiences+that+solve+real+problems.%22" alt="Bio Quote"/>
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25"/>
-## FEATURED PROJECTS
+<!-- System Stats -->
+<h2 align="center">
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> SYSTEM_STATS.exe
+</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🚗 Vehicle Tracking & Service Management System</h3>
-        <p align="center">
-          <img src="https://via.placeholder.com/400x200/0D1117/00FFD0?text=Vehicle+Tracking+System" alt="Vehicle Tracking System"/>
-          <br /><br />
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/DEMO-00FFD0?style=for-the-badge&logo=youtube&logoColor=black" alt="Demo"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-00FFD0?style=for-the-badge&logo=github&logoColor=black" alt="Code"/>
-          </a>
-        </p>
-        <p>
-          Full-stack platform for real-time vehicle service tracking in workshops with role-based access, live dashboards, customer QR tracking, and analytics.<br/><br/>
-          <b>Stack:</b> Flutter, React.js, Node.js, Express, MongoDB
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🏆 Lead Scoring Management System</h3>
-        <p align="center">
-          <img src="https://via.placeholder.com/400x200/0D1117/00FFD0?text=Lead+Scoring+System" alt="Lead Scoring System"/>
-          <br /><br />
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/DEMO-00FFD0?style=for-the-badge&logo=youtube&logoColor=black" alt="Demo"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-00FFD0?style=for-the-badge&logo=github&logoColor=black" alt="Code"/>
-          </a>
-        </p>
-        <p>
-          Automated customer profiling and lead scoring system integrated with Salesforce, featuring sales dashboards, AI-driven scoring, and actionable insights.<br/><br/>
-          <b>Stack:</b> React.js, Node.js, Express, MongoDB, Salesforce API
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🚙 Test Drive Booking System</h3>
-        <p align="center">
-          <img src="https://via.placeholder.com/400x200/0D1117/00FFD0?text=Test+Drive+Booking+System" alt="Test Drive Booking System"/>
-          <br /><br />
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/DEMO-00FFD0?style=for-the-badge&logo=youtube&logoColor=black" alt="Demo"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-00FFD0?style=for-the-badge&logo=github&logoColor=black" alt="Code"/>
-          </a>
-        </p>
-        <p>
-          Modern web platform for demo car bookings with real-time analytics, notifications, role-based access, and automated reporting.<br/><br/>
-          <b>Stack:</b> React.js, Node.js, Express, MongoDB
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🎓 Campus Hub Management System</h3>
-        <p align="center">
-          <img src="https://via.placeholder.com/400x200/0D1117/00FFD0?text=Campus+Hub+System" alt="Campus Hub System"/>
-          <br /><br />
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/DEMO-00FFD0?style=for-the-badge&logo=youtube&logoColor=black" alt="Demo"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-00FFD0?style=for-the-badge&logo=github&logoColor=black" alt="Code"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/RESEARCH-00FFD0?style=for-the-badge&logo=researchgate&logoColor=black" alt="Research"/>
-          </a>
-        </p>
-        <p>
-          Social platform for university events, reviews, blogs, and student engagement with admin moderation and Firebase media integration.<br/><br/>
-          <b>Stack:</b> React.js, Node.js, Express, MongoDB, Firebase
-        </p>
-      </td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=umangkumarchaudhary&show_icons=true&theme=radical&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&icon_color=FF00E5&border_color=00F0FF&count_private=true&hide_border=false" height="180" alt="Stats"/>
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=umangkumarchaudhary&theme=radical&background=0D1117&ring=00F0FF&fire=FF00E5&currStreakLabel=00F0FF&border=00F0FF&stroke=00F0FF" height="180" alt="Streak"/>
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25"/>
-## CODING STATS
+<!-- Tech Stack Section -->
+<h2 align="center">
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> TECH_ARSENAL.dll
+</h2>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/umangkumarchaudhary?theme=dark&font=JetBrains%20Mono&ext=activity" alt="LeetCode Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umangkumarchaudhary&layout=compact&theme=dark&bg_color=0D1117&title_color=00FFD0&text_color=FFFFFF&icon_color=00FFD0&border_color=0D1117" alt="Top Languages" width="400"/>
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=umangkumarchaudhary&theme=darkhub&column=7&margin-w=15&margin-h=15&no-frame=true&title=Commits,Repositories,Stars,Followers,Issues,PR" alt="GitHub Trophies" width="100%"/>
+
+<!-- Languages -->
+<img src="https://img.shields.io/badge/LANGUAGES-0D1117?style=for-the-badge&labelColor=0D1117" alt="Languages"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,dart,html,css&theme=dark" alt="Languages"/>
+
+<br/><br/>
+
+<!-- Frameworks -->
+<img src="https://img.shields.io/badge/FRAMEWORKS-0D1117?style=for-the-badge&labelColor=0D1117" alt="Frameworks"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,flutter,fastapi&theme=dark" alt="Frameworks"/>
+
+<br/><br/>
+
+<!-- Databases & Cloud -->
+<img src="https://img.shields.io/badge/DATABASE_&_CLOUD-0D1117?style=for-the-badge&labelColor=0D1117" alt="Database & Cloud"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,supabase,firebase,aws,vercel&theme=dark" alt="Database & Cloud"/>
+
+<br/><br/>
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/TOOLS-0D1117?style=for-the-badge&labelColor=0D1117" alt="Tools"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman&theme=dark" alt="Tools"/>
+
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25"/>
-## ACHIEVEMENTS & CERTIFICATIONS
+<!-- Featured Projects -->
+<h2 align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> FLAGSHIP_PROJECTS.sys
+</h2>
 
 <div align="center">
-  <!-- Certifications -->
-  <a href="https://coursera.org/verify/nls-deeplearning" target="_blank">
-    <img src="https://img.shields.io/badge/Natural_Language_Specialization-DeepLearning.ai-00FFD0?style=for-the-badge&logo=coursera&logoColor=black" alt="DeepLearning.ai Certification"/>
-  </a>
-  <a href="https://stanfordonline.edu/verify/ulrl" target="_blank">
-    <img src="https://img.shields.io/badge/Unsupervised_&_Reinforcement_Learning-Stanford-00FFD0?style=for-the-badge&logo=stanford&logoColor=black" alt="Stanford Certification"/>
-  </a>
-  <a href="https://infosys.com/verify/dbms" target="_blank">
-    <img src="https://img.shields.io/badge/Database_Management_System-Infosys-00FFD0?style=for-the-badge&logo=infosys&logoColor=black" alt="Infosys Certification"/>
-  </a>
-  <a href="https://practice.geeksforgeeks.org/courses/verify/dsa" target="_blank">
-    <img src="https://img.shields.io/badge/Data_Structures_and_Algorithms-GeeksforGeeks-00FFD0?style=for-the-badge&logo=geeksforgeeks&logoColor=black" alt="GeeksforGeeks Certification"/>
-  </a>
-  <br/><br/>
-  <!-- Achievements -->
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/🔥_450+_Day_LeetCode_Streak-00FFD0?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Streak"/>
-  </a>
-  <a href="https://your-research-paper-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Published_Research_Paper-00FFD0?style=for-the-badge&logo=researchgate&logoColor=black" alt="Research Paper"/>
-  </a>
+
+<!-- Project 1: TruthGuard -->
+<a href="https://github.com/umangkumarchaudhary/TruthGuard---AI-Hallucination-Detection-Compliance-Platform">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=umangkumarchaudhary&repo=TruthGuard---AI-Hallucination-Detection-Compliance-Platform&theme=radical&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E5&border_color=00F0FF" alt="TruthGuard"/>
+</a>
+
+<br/>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🛡️_TruthGuard-AI_Hallucination_Detection-00F0FF?style=for-the-badge&labelColor=0D1117" alt="TruthGuard"/>
+<br/><br/>
+<b>Enterprise AI Safety Platform</b><br/>
+Real-time hallucination detection, compliance checking, and audit trails for AI systems
+<br/><br/>
+<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" alt="Next.js"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square" alt="spaCy"/>
+<br/><br/>
+<a href="https://truthguard-ai.vercel.app"><img src="https://img.shields.io/badge/🌐_LIVE_DEMO-FF00E5?style=for-the-badge&labelColor=0D1117" alt="Live Demo"/></a>
+<a href="https://github.com/umangkumarchaudhary/TruthGuard---AI-Hallucination-Detection-Compliance-Platform"><img src="https://img.shields.io/badge/📂_SOURCE-00F0FF?style=for-the-badge&labelColor=0D1117" alt="Source"/></a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Project 2: SentinelMarket -->
+<a href="https://github.com/umangkumarchaudhary/SentinelMarket-Backend">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=umangkumarchaudhary&repo=SentinelMarket-Backend&theme=radical&bg_color=0D1117&title_color=00F0FF&icon_color=FF00E5&border_color=00F0FF" alt="SentinelMarket"/>
+</a>
+
+<br/>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/📊_SentinelMarket-AI_Stock_Anomaly_Detection-FF00E5?style=for-the-badge&labelColor=0D1117" alt="SentinelMarket"/>
+<br/><br/>
+<b>AI-Powered Stock Market Intelligence</b><br/>
+Real-time anomaly detection, risk scoring, social sentiment analysis for Indian markets
+<br/><br/>
+<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" alt="Next.js"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+<br/><br/>
+<a href="https://sentinelmarket.netlify.app"><img src="https://img.shields.io/badge/🌐_LIVE_DEMO-FF00E5?style=for-the-badge&labelColor=0D1117" alt="Live Demo"/></a>
+<a href="https://github.com/umangkumarchaudhary/SentinelMarket-Backend"><img src="https://img.shields.io/badge/📂_SOURCE-00F0FF?style=for-the-badge&labelColor=0D1117" alt="Source"/></a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Project 3: MG CRM (Case Study) -->
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🚗_MG_Digital_Platform-Enterprise_CRM_Suite-00FF88?style=for-the-badge&labelColor=0D1117" alt="MG CRM"/>
+<br/><br/>
+<b>Enterprise CRM & Digital Experience Platform</b><br/>
+Built for Raam Group (MG Motors Franchise) - Lead management, test drive booking, service tracking
+<br/><br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/⚡_PRODUCTION_DEPLOYED-00FF88?style=for-the-badge&labelColor=0D1117" alt="Production"/>
+<img src="https://img.shields.io/badge/🔒_PROPRIETARY-666666?style=for-the-badge&labelColor=0D1117" alt="Private"/>
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25"/>
-## LET'S CONNECT
+<!-- Experience Section -->
+<h2 align="center">
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> CAREER_LOG.json
+</h2>
 
 <div align="center">
-  <a href="mailto:your@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-00FFD0?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/umang-kumar-0546b71b5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00FFD0?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/umangkumarchaudhary/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-00FFD0?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://instagram.com/umangkumarchaudhary" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-00FFD0?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/>
-  </a>
+
+```json
+{
+  "current_position": {
+    "company": "Raam Group",
+    "role": "Digital Experience Manager",
+    "location": "India",
+    "since": "June 2024",
+    "focus": [
+      "Enterprise CRM Development",
+      "AI-Powered Solutions",
+      "Full Stack Development",
+      "Digital Transformation"
+    ]
+  },
+  "key_achievements": [
+    "Built enterprise-grade CRM platform for MG Motors franchise",
+    "Developed AI-powered lead scoring system",
+    "Created real-time vehicle service tracking platform",
+    "450+ days LeetCode coding streak"
+  ]
+}
+```
+
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25"/>
-## FUN FACTS
+<!-- LeetCode Stats -->
+<h2 align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30"> COMPETITIVE_CODING.exe
+</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>🏎️ Formula 1 enthusiast</td>
-      <td>☕ Coffee-fueled night coder</td>
-      <td>🧠 AI & ML hobbyist</td>
-    </tr>
-    <tr>
-      <td>🏆 Competitive programmer</td>
-      <td>🌐 Open-source contributor</td>
-      <td>💡 Tech solution architect</td>
-    </tr>
-  </table>
+<a href="https://leetcode.com/umangkumarchaudhary/">
+<img src="https://leetcard.jacoblin.cool/umangkumarchaudhary?theme=dark&font=JetBrains%20Mono&ext=activity&border=1&radius=10" width="500" alt="LeetCode Stats"/>
+</a>
+</div>
+
+---
+
+<!-- Certifications -->
+<h2 align="center">
+<img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="30"> CERTIFICATIONS.cert
+</h2>
+
+<div align="center">
+
+[![DeepLearning.ai](https://img.shields.io/badge/Natural_Language_Specialization-DeepLearning.ai-00F0FF?style=for-the-badge&logo=coursera&logoColor=black&labelColor=0D1117)](https://coursera.org)
+[![Stanford](https://img.shields.io/badge/Unsupervised_&_Reinforcement_Learning-Stanford-FF00E5?style=for-the-badge&logo=stanford&logoColor=white&labelColor=0D1117)](https://stanfordonline.edu)
+
+[![Infosys](https://img.shields.io/badge/Database_Management_System-Infosys-00FF88?style=for-the-badge&logo=infosys&logoColor=black&labelColor=0D1117)](https://infosys.com)
+[![GeeksforGeeks](https://img.shields.io/badge/Data_Structures_&_Algorithms-GeeksforGeeks-00F0FF?style=for-the-badge&logo=geeksforgeeks&logoColor=black&labelColor=0D1117)](https://geeksforgeeks.org)
+
 </div>
 
 ---
 
 <!-- GitHub Activity Graph -->
+<h2 align="center">
+<img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="30"> ACTIVITY_MONITOR.log
+</h2>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umangkumarchaudhary&theme=react-dark&bg_color=0D1117&color=00FFD0&line=00FFD0&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=umangkumarchaudhary&theme=react-dark&bg_color=0D1117&color=00F0FF&line=FF00E5&point=FFFFFF&area=true&hide_border=false&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph"/>
 </div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umangkumarchaudhary&layout=compact&theme=radical&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&border_color=00F0FF&langs_count=8" alt="Top Languages"/>
+</div>
+
+---
+
+<!-- Trophies -->
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=umangkumarchaudhary&theme=radical&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="Trophies"/>
+</div>
+
+---
+
+<!-- Connect Section -->
+<h2 align="center">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> CONNECT.link
+</h2>
+
+<div align="center">
+
+<a href="mailto:kumarumang282@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-kumarumang282@gmail.com-00F0FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/umang-kumar-0546b71b5/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
+</a>
+<a href="https://umangkumar.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-FF00E5?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D1117" alt="Portfolio"/>
+</a>
+<a href="https://leetcode.com/umangkumarchaudhary/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" alt="LeetCode"/>
+</a>
+<a href="https://github.com/umangkumarchaudhary">
+<img src="https://img.shields.io/badge/GitHub-Follow-00FF88?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/>
+</a>
+
+</div>
+
+---
 
 <!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/umangkumarchaudhary/umangkumarchaudhary/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+<img src="https://raw.githubusercontent.com/umangkumarchaudhary/umangkumarchaudhary/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </div>
 
-<!-- Footer -->
+---
+
+<!-- Footer Quote -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=00FFD0&center=true&vCenter=true&width=800&lines=BUILDING+THE+FUTURE%2C+ONE+LINE+OF+CODE+AT+A+TIME" alt="Building the future, one line of code at a time"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=4000&pause=2000&color=00F0FF&center=true&vCenter=true&width=800&lines=ARCHITECTING+DIGITAL+EXPERIENCES;ENGINEERING+AI-POWERED+SOLUTIONS;BUILDING+THE+FUTURE%2C+ONE+COMMIT+AT+A+TIME" alt="Footer"/>
+
+<br/><br/>
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   "In a world of automation, the best code is the one that solves           ║
+║    problems humans didn't know they had."                                   ║
+║                                                                              ║
+║                                              - Umang Kumar                   ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
 </div>
