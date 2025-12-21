@@ -35,25 +35,22 @@
 <!-- Terminal-style About Section -->
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  root@umang:~$ cat /etc/profile                                              ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║   > LOCATION:     India 🇮🇳                                                   ║
-║   > ROLE:         Digital Experience Manager @ Raam Group                    ║
-║   > SPECIALTY:    Full Stack Development • AI Integration • System Design   ║
-║   > STATUS:       Building AI-powered enterprise solutions                   ║
-║   > UPTIME:       450+ days LeetCode streak 🔥                               ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+```js
+// root@umang:~$ whoami
+const developer = {
+    location: "India 🇮🇳",
+    role: "Digital Experience Manager @ Raam Group",
+    specialty: ["Full Stack", "AI Integration", "System Design"],
+    status: "Building AI-powered enterprise solutions",
+    uptime: "450+ days LeetCode streak 🔥"
+};
 ```
 
 </div>
 
 <!-- Bio Quote -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=2000&color=00FF88&center=true&vCenter=true&width=800&lines=%22I+don't+just+write+code.+I+architect+digital+experiences+that+solve+real+problems.%22" alt="Bio Quote"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=2000&color=00FF88&center=true&vCenter=true&width=600&lines=Architecting+Digital+Experiences+That+Solve+Real+Problems" alt="Bio Quote"/>
 </div>
 
 ---
