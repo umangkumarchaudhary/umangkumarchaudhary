@@ -16,7 +16,7 @@
 <!-- Animated Glitch Header -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=%3C%2F%3E+UMANG+KUMAR" alt="Umang Kumar"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=FF00E5&center=true&vCenter=true&width=600&lines=Digital+Experience+Manager;Full+Stack+Developer;AI+%26+ML+Engineer;Building+the+Future+with+Code" alt="Roles"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=500&color=FF00E5&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;AI+%26+ML+Engineer;Digital+Experience+Manager" alt="Roles"/>
 
 <br/>
 
@@ -38,7 +38,7 @@
 ```js
 // root@umang:~$ whoami
 const developer = {
-    location: "India 🇮🇳",
+    location: "India 📍",
     role: "Digital Experience Manager @ Raam Group",
     specialty: ["Full Stack", "AI Integration", "System Design"],
     status: "Building AI-powered enterprise solutions",
